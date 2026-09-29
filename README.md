@@ -1,4 +1,4 @@
-# Sistem-Integrat-de-Gestiune-si-Analiza-de-Business-Intelligence-pentru-Retail-Lidl-Style-
+# Sistem-Integrat-de-Gestiune-si-Analiza-de-Business-Intelligence-pentru-Lidl-
 
 # 📌 Descrierea Generală a Proiectului
 Acest proiect abordează proiectarea, implementarea și exploatarea unei baze de date relaționale destinate monitorizării activității comerciale dintr-un lanț de supermarketuri. Scopul principal este transformarea datelor brute operaționale (tranzacții, stocuri, fluxuri de aprovizionare) în informații strategice de tip **Business Intelligence**.
